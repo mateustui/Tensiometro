@@ -8,5 +8,9 @@ O sistema consiste em utilizar conceitos de Iot, Agro 4.0, redes de sensores e o
 <br>
 O sistema contém um device que fica instalado no campo e  faz a coleta dos dados por meios de sensores, envia essas informações para outro device que fica em um lugar onde é possivel conectá-lo a internet. Essas informações são enviadas para um servidor e podem ser consultadas de qualquer lugar que tenha acesso a internet, permitindo uma vizualização quase em tempo real das condições hídricas do solo.<br>
 
-<img src="Imagens/3d_receptor.png" width="300">
-Criação de um sistema de coleta automatizada de dados tensiométricos
+<img align="left"  src="Imagens/placa_3d.png" width="300">
+<img  src="Imagens/placa_montada_emissor.jpeg" width="300"><br>
+<img  align="left" src="Imagens/3d_receptor.png" width="300">
+<img  src="Imagens/placa_montada_receptor.jpeg" width="300"><br>
+<img  align="left" src="Imagens/tensi_final.png" width="300">
+<img  src="Imagens/prototipos finalizados.jpeg" width="300"><br>
