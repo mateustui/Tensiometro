@@ -1,0 +1,17 @@
+Arduino uno
+mcu = atmega328p
+low fuse = 	0xFF = 11111111
+high fuse= 	0xDE = 11011110
+extdnded fuse= 	0x05 = 00000101
+unlock bits = 	0x3F = 00111111
+lock bits = 	0x0F = 00001111
+f_cpu=		16000000
+=============================
+Arduino nano
+mcu = atmega328p
+low fuse = 	0xFF = 11111111
+high fuse= 	0xDA = 11011010
+extdnded fuse= 	0x05 = 00000101
+unlock bits = 	0x3F = 00111111
+lock bits = 	0x0F = 00001111
+f_cpu=		16000000
